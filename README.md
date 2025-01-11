@@ -44,9 +44,9 @@ src="https://img.shields.io/github/followers/phukaokub?logo=github&style=for-the
 
 <div width="100%" align="center"><a href="https://github.com/phukaokub/RanGuayTeaw_Factegrate" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phukaokub&repo=RanGuayTeaw_Factegrate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/phukaokub/re-sacrifice" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phukaokub&repo=re-sacrifice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/phukaokub/re-sacrifice" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phukaokub&repo=re-sacrifice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br />
 </div>
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/phukaokub/Premier-League-Scout" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phukaokub&repo=Premier-League-Scout&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
