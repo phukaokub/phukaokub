@@ -7,10 +7,11 @@ Data Science & Engineering, Web developer, and UX/UI Designer
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [my resume](http://drive.google.com/file/d/10jRLPua6jPKWsDhmWn9cJiP8v7LapAo-/view?usp=sharing)
 * ✉️  You can contact me at [teerawat.chu.work@gmail.com](mailto:teerawat.chu.work@gmail.com)
-* 🚀  I'm currently working as a Chief Product Office at [Bualoitech](https://github.com/Bualoitech/)
+* 🚀  I was working as a Chief Product Office at [Bualoitech](https://github.com/Bualoitech/)
+* 🚀  I am currently working on a personal financial trading project
 <!--[Project A](http://github.com/SIIT-Project-A/ProjectA-3T), and [Premierleague Scouting Service](https://github.com/krittintrs/Premier-League-Scout)-->
-* 🧠  I'm learning Data Engineering
-* 🤝  I'm open to collaborating on data engineering project, data science project, and Internship
+* 🧠  I'm learning web extensions
+* 🤝  I'm open to collaborating on software engineering projects, data engineering projects, data science projects, and Internship
 
 <a href="https://www.github.com/phukaokub" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phukaokub?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
