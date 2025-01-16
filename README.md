@@ -5,7 +5,7 @@ Data Science & Engineering, Web developer, and UX/UI Designer
 -------------------------------------------------------------
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [my resume](http://drive.google.com/file/d/10jRLPua6jPKWsDhmWn9cJiP8v7LapAo-/view?usp=sharing)
+* 🖥️  See my portfolio at [my resume]([http://drive.google.com/file/d/10jRLPua6jPKWsDhmWn9cJiP8v7LapAo-/view?usp=sharing](https://drive.google.com/file/d/1VwpMIYRopXJn85M-PdlemE7DKOHPaf5q/view?usp=sharing))
 * ✉️  You can contact me at [teerawat.chu.work@gmail.com](mailto:teerawat.chu.work@gmail.com)
 * 🚀  I was working as a Chief Product Office at [Bualoitech](https://github.com/Bualoitech/)
 * 🚀  I am currently working on a personal financial trading project
